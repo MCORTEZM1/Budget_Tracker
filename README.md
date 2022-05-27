@@ -10,7 +10,7 @@
 
 - Future development will include the ability for users to create an account to track their own personal budget! Keep an eye our for version_2 coming soon! 
 
-![APP](./screenshot/on-budget.png)
+![APP](screenshot/on-budget.png)
 
 ## **Table of Contents** 
 
